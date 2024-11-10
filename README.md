@@ -11,19 +11,19 @@ Elementos textuais, como "Banco Central do Brasil", o valor "1 REAL" à esquerda
 
 **Estilos em CSS:**
 
-Cores e Gradientes: A nota tem uma base com gradiente verde, semelhante à cor da cédula original de um real, usando gradientes lineares para dar profundidade e textura.
-Textos e Elementos Visuais:
-A frase "Banco Central do Brasil" está posicionada na parte superior esquerda para simular o layout de uma nota real.
-Números grandes "1" são colocados tanto no lado esquerdo quanto no direito para indicar o valor da cédula.
-Rosto Central:
-Um elemento .rosto foi adicionado para imitar o busto clássico da cédula real, utilizando uma imagem de um rosto com detalhes elegantes e bem definidos. Esse rosto é implementado como uma imagem de fundo, centralizada e estilizada com sombras internas, o que cria profundidade e destaque, dando a sensação de um relevo típico de cédulas.
-Texturas e Padrões:
-Um padrão decorativo foi adicionado na lateral esquerda da nota para enriquecer o visual e aumentar a autenticidade. Esse padrão é criado usando um gradiente repetido que imita texturas de segurança encontradas em cédulas reais.
-Elementos Decorativos:
-Pequenas sombras e gradientes circulares simulam selos e outras marcações decorativas comuns em cédulas.
-Texto Adicional para Fins Educacionais:
+***Cores e Gradientes:*** A nota tem uma base com gradiente verde, semelhante à cor da cédula original de um real, usando gradientes lineares para dar profundidade e textura.
 
-No rodapé da nota, foi adicionado o texto "Para fins educacionais" para deixar claro que este projeto é uma simulação e que não possui valor monetário. Esse aviso é essencial para reforçar o propósito educacional do projeto.
+***Textos e Elementos Visuais:*** A frase "Banco Central do Brasil" está posicionada na parte superior esquerda para simular o layout de uma nota real.
+Números grandes "1" são colocados tanto no lado esquerdo quanto no direito para indicar o valor da cédula.
+
+***Rosto Central:*** Um elemento .rosto foi adicionado para imitar o busto clássico da cédula real, utilizando uma imagem de um rosto com detalhes elegantes e bem definidos. Esse rosto é implementado como uma imagem de fundo, centralizada e estilizada com sombras internas, o que cria profundidade e destaque, dando a sensação de um relevo típico de cédulas.
+
+***Texturas e Padrões:*** Um padrão decorativo foi adicionado na lateral esquerda da nota para enriquecer o visual e aumentar a autenticidade. Esse padrão é criado usando um gradiente repetido que imita texturas de segurança encontradas em cédulas reais.
+
+***Elementos Decorativos:*** Pequenas sombras e gradientes circulares simulam selos e outras marcações decorativas comuns em cédulas.
+
+***Texto Adicional para Fins Educacionais:*** No rodapé da nota, foi adicionado o texto "Para fins educacionais" para deixar claro que este projeto é uma simulação e que não possui valor monetário. Esse aviso é essencial para reforçar o propósito educacional do projeto.
+
 Funcionalidade
 Embora o projeto seja basicamente visual, ele pode ser expandido com JavaScript para permitir interatividade. Por exemplo:
 
