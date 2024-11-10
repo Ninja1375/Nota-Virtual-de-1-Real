@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+[Nota Virtual de 1 Real]()
+
 Este projeto consiste em uma representação virtual de uma nota de um real utilizando HTML e CSS. O objetivo é criar uma cédula fictícia e estilizada, mantendo um aspecto visual que remeta a uma cédula de dinheiro real, mas com um design exclusivo e criado para fins educacionais. 
 
 A nota possui detalhes de layout e texturas, como um rosto central e elementos textuais, como "Banco Central do Brasil", o valor nominal "1 REAL", e uma indicação clara de que é para uso educacional.
@@ -47,3 +51,7 @@ Este projeto é voltado para o aprendizado e exploração de técnicas de CSS pa
 ## Conclusão ##
 
 Esta representação de uma cédula de um real demonstra o poder das tecnologias de front-end, especialmente CSS, para criar designs detalhados e estilizados que simulam elementos do mundo real. Com a combinação de gradientes, sombras, e texturas, o projeto se aproxima de uma cédula de dinheiro, mas mantém a simplicidade e clareza de ser um item virtual criado para educação.
+
+## linguagens Utilizadas ##
+
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
