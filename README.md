@@ -1,6 +1,6 @@
 **Veja o projeto ao vivo:**
 
-**[Nota Virtual de 1 Real](gghgg)**
+**[Nota Virtual de 1 Real](https://ninja1375.github.io/Nota-Virtual-de-1-Real/)**
 
 Este projeto consiste em uma representação virtual de uma nota de um real utilizando HTML e CSS. O objetivo é criar uma cédula fictícia e estilizada, mantendo um aspecto visual que remeta a uma cédula de dinheiro real, mas com um design exclusivo e criado para fins educacionais. 
 
