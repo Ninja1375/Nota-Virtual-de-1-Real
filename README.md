@@ -1,11 +1,15 @@
-Este projeto consiste em criar uma representação virtual de uma nota de um real utilizando HTML, CSS e JavaScript. O objetivo é criar uma cédula fictícia e estilizada, mantendo um aspecto visual que remeta a uma cédula de dinheiro real, mas com um design exclusivo e criado para fins educacionais. A nota possui detalhes de layout e texturas, como um rosto central estilizado, que é inspirado em um busto clássico, e elementos textuais, como "Banco Central do Brasil", o valor nominal "1 REAL", e uma indicação clara de que é para uso educacional.
+Este projeto consiste em uma representação virtual de uma nota de um real utilizando HTML e CSS. O objetivo é criar uma cédula fictícia e estilizada, mantendo um aspecto visual que remeta a uma cédula de dinheiro real, mas com um design exclusivo e criado para fins educacionais. 
 
-Componentes do Projeto
-Estrutura HTML: A estrutura HTML é simples e define os principais elementos da cédula, incluindo:
+A nota possui detalhes de layout e texturas, como um rosto central e elementos textuais, como "Banco Central do Brasil", o valor nominal "1 REAL", e uma indicação clara de que é para uso educacional.
+
+## Componentes do Projeto ##
+
+**Estrutura HTML:** A estrutura HTML é simples e define os principais elementos da cédula, incluindo:
 
 O contêiner principal (.nota), que representa a nota em si.
 Elementos textuais, como "Banco Central do Brasil", o valor "1 REAL" à esquerda e à direita, e detalhes adicionais como a indicação de fins educacionais e um número de série fictício.
-Estilos em CSS:
+
+**Estilos em CSS:**
 
 Cores e Gradientes: A nota tem uma base com gradiente verde, semelhante à cor da cédula original de um real, usando gradientes lineares para dar profundidade e textura.
 Textos e Elementos Visuais:
