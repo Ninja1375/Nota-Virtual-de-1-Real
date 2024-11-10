@@ -1,0 +1,131 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+.nota {
+    width: 350px;
+    height: 180px;
+    background: linear-gradient(135deg, #8fbca2, #6d987e);
+    border: 2px solid #333;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: 10px;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+.banco-central {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    position: absolute;
+    top: 1px;
+    left: 15px;
+}
+
+.numero-grande-esquerdo {
+    font-size: 60px;
+    font-weight: bold;
+    color: #2e2e2e;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+
+.numero-grande-direito {
+    font-size: 40px;
+    font-weight: bold;
+    color: #2e2e2e;
+    position: absolute;
+    top: 40px;
+    right: 15px;
+}
+
+.padrao-lateral {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40px;
+    height: 100%;
+    background: repeating-linear-gradient(
+        45deg,
+        rgba(255, 255, 255, 0.2),
+        rgba(255, 255, 255, 0.2) 10px,
+        transparent 10px,
+        transparent 20px
+    );
+    opacity: 0.5;
+}
+
+.rosto {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 40px;
+    left: 125px;
+    background-image: url('https://i.ibb.co/RQnrqzp/Marianne.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.3),
+                inset 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.valor {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+}
+
+.detalhes {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    text-align: right;
+}
+
+.serie {
+    font-size: 12px;
+    color: #333;
+}
+
+.texto-adicional {
+    font-size: 10px;
+    color: #333;
+    margin-top: 5px;
+}
+
+.nota::before {
+    content: "";
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 80px;
+    height: 80px;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 0%, transparent 70%);
+    opacity: 0.4;
+    transform: rotate(45deg);
+}
+
+.educacional {
+    font-size: 12px;
+    color: #333;
+    font-style: italic;
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    opacity: 0.8;
+}
