@@ -2,7 +2,7 @@
 
 **[Nota Virtual de 1 Real](https://ninja1375.github.io/Nota-Virtual-de-1-Real/)**
 
-Este projeto consiste em uma representação virtual de uma nota de um real utilizando HTML e CSS. O objetivo é criar uma cédula fictícia e estilizada, mantendo um aspecto visual que remeta a uma cédula de dinheiro real, mas com um design exclusivo e criado para fins educacionais. 
+Este projeto consiste em uma representação virtual de uma nota de um real utilizando HTML, CSS e JavaScript. O objetivo é criar uma cédula fictícia e estilizada, mantendo um aspecto visual que remeta a uma cédula de dinheiro real, mas com um design exclusivo e criado para fins educacionais. 
 
 A nota possui detalhes de layout e texturas, como um rosto central e elementos textuais, como "Banco Central do Brasil", o valor nominal "1 REAL", e uma indicação clara de que é para uso educacional.
 
@@ -28,21 +28,17 @@ Números grandes "1" são colocados tanto no lado esquerdo quanto no direito par
 
 ***Texto Adicional para Fins Educacionais:*** No rodapé da nota, foi adicionado o texto "Para fins educacionais" para deixar claro que este projeto é uma simulação e que não possui valor monetário. Esse aviso é essencial para reforçar o propósito educacional do projeto.
 
-## Funcionalidades Futuras ##
+**Lógica JavaScript**
 
-Embora o projeto seja basicamente visual, ele pode ser expandido com JavaScript para permitir interatividade. Por exemplo:
+***Animações:*** Animação sutil para simular o brilho na superfície da nota.
 
-**Animações:** Podemos adicionar uma animação sutil para simular o brilho na superfície da nota.
+***Zoom e Movimento:*** Funcionalidade de zoom ou de movimento ao passar o cursor, permitindo uma visualização detalhada dos elementos.
 
-**Zoom e Movimento:** O JavaScript pode ser utilizado para adicionar uma funcionalidade de zoom ou de movimento ao passar o cursor, permitindo uma visualização detalhada dos elementos.
+***Informações Interativas:*** Ao clicar em diferentes partes da nota, modais são exibidos com descrições sobre cada elemento da cédula, como o significado dos símbolos, números e etc.
 
-**Informações Interativas:** Ao clicar em diferentes partes da nota, pequenas janelas pop-up podem exibir descrições sobre cada elemento da cédula, como o significado dos símbolos e números.
+## Propósito e Aplicação
 
-## Propósito e Aplicação ##
-
-Este projeto é voltado para o aprendizado e exploração de técnicas de CSS para estilização avançada e uso de imagens. Ele é especialmente útil para:
-
-**Estudantes e Entusiastas de Design Web:** Que desejam praticar criação de interfaces visuais complexas usando HTML e CSS.
+**Estudantes e Entusiastas de Design Web:** Que desejam praticar criação de interfaces visuais complexas usando HTML, CSS e JavaScript.
 
 **Ambientes Educacionais:** Onde o projeto pode ser utilizado para ensinar princípios de design, identidade visual e características de cédulas, bem como práticas de criação de interfaces responsivas e interativas.
 
@@ -50,7 +46,7 @@ Este projeto é voltado para o aprendizado e exploração de técnicas de CSS pa
 
 ## Conclusão ##
 
-Esta representação de uma cédula de um real demonstra o poder das tecnologias de front-end, especialmente CSS, para criar designs detalhados e estilizados que simulam elementos do mundo real. Com a combinação de gradientes, sombras, e texturas, o projeto se aproxima de uma cédula de dinheiro, mas mantém a simplicidade e clareza de ser um item virtual criado para educação.
+Esta representação de uma cédula de um real demonstra o poder das tecnologias de front-end, especialmente CSS e JavaScript para criar designs detalhados e estilizados que simulam elementos do mundo real. Com a combinação de gradientes, sombras, e texturas, o projeto se aproxima de uma cédula de dinheiro, mas mantém a simplicidade e clareza de ser um item virtual criado para educação.
 
 ## linguagens Utilizadas ##
 
